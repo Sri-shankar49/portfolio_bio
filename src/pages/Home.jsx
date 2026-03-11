@@ -22,7 +22,8 @@ const Home = () => {
             className="absolute inset-0 rounded-full border border-transparent bg-gradient-to-r from-cyan-400 via-pink-500 to-purple-500 animate-spin-slow blur-xs"
           />
           <motion.img
-            src="/sudharsan.jpg"
+            // src="/sankaranarayanan.jpeg"
+            src="/profile_pic.jpg"
             alt={data.profile.name}
             initial={{ opacity: 0, scale: 0.9 }}
             animate={{ opacity: 1, scale: 1 }}
@@ -78,10 +79,10 @@ const Home = () => {
         className="mt-8 sm:mt-10 flex flex-col sm:flex-row gap-6 justify-center z-10"
       >
         <a
-          href={"/sudharsan_resume.pdf"}
+          href={"/resume.pdf"}
           target="_blank"
           rel="noopener noreferrer"
-          download={"sudharsan_resume.pdf"}
+          download={"resume.pdf"}
           className="group flex items-center justify-center gap-2 px-6 py-3 rounded-full bg-gradient-to-r from-cyan-500 via-purple-500 to-pink-500 text-white font-semibold shadow-lg shadow-cyan-500/20 transition-all duration-300 hover:scale-105 hover:shadow-xl cursor-pointer"
         >
           <FileText className="w-5 h-5 transition-transform duration-300 group-hover:-translate-y-1" />

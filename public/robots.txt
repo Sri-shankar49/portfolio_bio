@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.sudharsan-a.me/sitemap.xml
+Sitemap: https://portfolio-bio-xwpo.vercel.app/sitemap.xml

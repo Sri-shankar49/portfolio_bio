@@ -1,4 +1,4 @@
-# Sudharsan A - Portfolio
+# Sankara Narayanan A - Portfolio
 
 A personal portfolio built to showcase my work, growth, and interest in crafting clean and purposeful digital experiences.
 
@@ -40,15 +40,15 @@ Built with intention - to document my work, track my progress, and connect with 
 
 ## Deployment
 
-The application is deployed on Vercel. You can view the live version at: [Live Demo](https://sudharsan-a.vercel.app/)
+The application is deployed on Vercel. You can view the live version at: [Live Demo](https://portfolio-bio-xwpo.vercel.app/)
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/danielace1/sudharsan-a.git
-   cd sudharsan-a
+   git clone https://github.com/Sri-shankar49/portfolio_bio.git
+   cd portfolio_bio
    ```
 
 2. Install dependencies:
@@ -66,11 +66,11 @@ The application is deployed on Vercel. You can view the live version at: [Live D
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-- [Fork](https://github.com/danielace1/sudharsan-a/fork) the repository
+- [Fork](https://github.com/Sri-shankar49/portfolio_bio/fork) the repository
 - Create your feature branch (`git checkout -b feature/AmazingFeature`)
 - Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 - Push to the branch (`git push origin feature/AmazingFeature`)
-- Open a [Pull Request](https://github.com/danielace1/sudharsan-a/pulls)
+- Open a [Pull Request](https://github.com/Sri-shankar49/portfolio_bio/pulls)
 
 ## License
 
@@ -78,10 +78,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-- Website: [www.sudharsan-a.me](https://www.sudharsan-a.me)
-- GitHub: [@danielace1](https://github.com/danielace1)
-- LinkedIn: [Sudharsan A](https://www.linkedin.com/in/a-sudharsan/)
+- Website: [https://portfolio-bio-xwpo.vercel.app/](https://portfolio-bio-xwpo.vercel.app/)
+- GitHub: [@Sri-shankar49](https://github.com/Sri-shankar49/)
+- LinkedIn: [Sankara Narayanan A](https://www.linkedin.com/in/sankara-narayanan-/)
 
 ---
 
-Made with ❤️ by Sudharsan A
+Made with ❤️ by Sankara Narayanan A

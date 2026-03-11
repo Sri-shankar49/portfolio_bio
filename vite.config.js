@@ -11,8 +11,8 @@ export default defineConfig({
     VitePWA({
       registerType: "autoUpdate",
       manifest: {
-        name: "Sudharsan A - Portfolio",
-        short_name: "Sudharsan",
+        name: "Sankara Narayanan A - Portfolio",
+        short_name: "Sankara Narayanan",
         description: "Crafting elegant and intuitive digital experiences.",
         theme_color: "#0ea5e9",
         background_color: "#ffffff",

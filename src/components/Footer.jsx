@@ -8,7 +8,7 @@ import {
   Instagram,
   Facebook,
   X,
-  Code,
+  // Code,
 } from "lucide-react";
 
 const Footer = () => {
@@ -27,39 +27,39 @@ const Footer = () => {
         {[
           {
             Icon: Globe,
-            url: "https://sudharsan-a.me",
+            url: "https://portfolio-bio-xwpo.vercel.app/",
             hover: "hover:text-cyan-500",
           },
           {
             Icon: Github,
-            url: "https://github.com/danielace1",
+            url: "https://github.com/Sri-shankar49",
             hover: "hover:text-black dark:hover:text-gray-100",
           },
           {
             Icon: Linkedin,
-            url: "https://www.linkedin.com/in/a-sudharsan/",
+            url: "https://www.linkedin.com/in/sankara-narayanan-/",
             hover: "hover:text-cyan-500",
           },
           {
             Icon: Instagram,
-            url: "https://instagram.com/sudharsan_daniel",
+            url: "https://www.instagram.com/__t_h_e__c_h_a_m_p__/",
             hover: "hover:text-pink-500",
           },
           {
             Icon: Facebook,
-            url: "https://www.facebook.com/sudharsandaniel01/",
+            url: "https://www.facebook.com/sri.shankar.976459/",
             hover: "hover:text-blue-500",
           },
           {
             Icon: X,
-            url: "https://x.com/SudharsanDaniel",
+            url: "https://x.com/srishankar4499",
             hover: "hover:text-black dark:hover:text-gray-100",
           },
-          {
-            Icon: Code,
-            url: "https://dev.to/sudharsan01",
-            hover: "hover:text-black dark:hover:text-gray-100",
-          },
+          // {
+          //   Icon: Code,
+          //   url: "https://dev.to/sudharsan01",
+          //   hover: "hover:text-black dark:hover:text-gray-100",
+          // },
         ].map(({ Icon, url, hover }, i) => (
           <motion.a
             key={i}
@@ -112,7 +112,7 @@ const Footer = () => {
           transition={{ type: "spring", stiffness: 300, damping: 15 }}
           className="relative inline-block font-semibold bg-gradient-to-r from-cyan-500 to-purple-500 text-transparent bg-clip-text cursor-pointer after:content-[''] after:absolute after:left-0 after:-bottom-[1px] after:w-full after:h-[1px] after:scale-x-0 after:origin-left after:transition-transform after:duration-300 after:bg-gradient-to-r after:from-cyan-500 after:to-purple-500 hover:after:scale-x-100"
         >
-          <a href="https://sudharsan-a.me">Sankara Narayanan A</a>
+          <a href="https://portfolio-bio-xwpo.vercel.app/">Sankara Narayanan A</a>
         </motion.span>
       </p>
     </footer>
