@@ -2,22 +2,22 @@
 
 A personal portfolio built to showcase my work, growth, and interest in crafting clean and purposeful digital experiences.
 
-## Screenshots
+<!-- ## Screenshots
 
 <div align="center">
 
-<!-- Desktop Screenshot -->
+Desktop Screenshot
 <img src="./public/screenshots/desktop-screenshot.png" width="500px" style="border-radius:12px; object-fit:cover;" />
 
 <br/><br/>
 
-<!-- Mobile Screenshots Row -->
+Mobile Screenshots Row
 <div style="display: flex; gap: 30px; justify-content: center; align-items: center; flex-wrap: wrap;">
   <img src="./public/screenshots/mobile-screenshot.png" width="180px" style="border-radius:12px; object-fit:cover;" />
   <img src="./public/screenshots/slant-mobile-screenshot.png" width="350px" style="border-radius:12px; object-fit:cover;" />
 </div>
 
-</div>
+</div> -->
 
 ## Purpose
 
