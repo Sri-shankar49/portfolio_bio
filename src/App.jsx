@@ -4,7 +4,7 @@ import ParallaxStars from "./components/ParallaxStars";
 import GradientBackground from "./components/GradientBackground";
 import Home from "./pages/Home";
 import About from "./pages/about/About";
-import Projects from "./pages/projects/Projects";
+// import Projects from "./pages/projects/Projects";
 import Skills from "./pages/Skills/Skills"; 
 import Contact from "./pages/Contact";
 import Footer from "./components/Footer";
@@ -28,7 +28,7 @@ const App = () => {
         <Home />
         <About />
         <Skills />
-        <Projects />
+        {/* <Projects /> */}
         <Contact />
         <Footer />
       </main>
