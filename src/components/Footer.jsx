@@ -15,7 +15,7 @@ const Footer = () => {
   const year = new Date().getFullYear();
   const [active, setActive] = useState("home");
 
-  const navLinks = ["Home", "About", "Skills", "Projects", "Contact"];
+  const navLinks = ["Home", "About", "Skills", "Contact"];
 
   return (
     <footer className="w-full bg-white/40 dark:bg-zinc-950 text-gray-900 dark:text-gray-200 py-5 md:pt-8 px-6 flex flex-col items-center">
@@ -92,11 +92,10 @@ const Footer = () => {
                 offset={-70}
                 spy={true}
                 onSetActive={() => setActive(id)}
-                className={`font-medium transition-all duration-300 cursor-pointer ${
-                  active === id
+                className={`font-medium transition-all duration-300 cursor-pointer ${active === id
                     ? "text-purple-600 dark:text-cyan-400 "
                     : "text-gray-600 dark:text-gray-400 hover:text-cyan-500 dark:hover:text-pink-400"
-                }`}
+                  }`}
               >
                 {item}
               </ScrollLink>

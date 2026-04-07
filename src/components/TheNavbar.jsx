@@ -7,7 +7,7 @@ const TheNavbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const [active, setActive] = useState("home");
-  const navLinks = ["Home", "About", "Skills", "Projects", "Contact"];
+  const navLinks = ["Home", "About", "Skills", "Contact"];
 
   return (
     <nav
